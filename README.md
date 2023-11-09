@@ -1,0 +1,5 @@
+-  Hi, I’m @N018B
+-  I’m interested in computer science and game/app/website design
+-  I’m currently learning algorithm design and web developement
+-  I’m looking to collaborate on algorithm or game based projects
+-  You can message me at n018b on discord
